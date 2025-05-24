@@ -23,3 +23,4 @@ This weather application allows users to search for real-time weather informatio
 ## Technology Stack  
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)  
 - **Weather API**: [OpenWeatherMap](https://openweathermap.org/api)  
+- **Deployment**: Vercel
